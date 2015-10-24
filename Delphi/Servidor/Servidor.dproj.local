@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2015/10/24 13:43:20.848,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\FormUnit1.pas</Transaction>
+    <Transaction>2015/10/24 13:43:24.415,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2015/10/24 13:43:27.113,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\WebModuleUnit1.pas</Transaction>
+    <Transaction>2015/10/24 13:43:30.010,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\js\base64.js</Transaction>
+    <Transaction>2015/10/24 13:43:30.030,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\js\ServerFunctionExecutor.js</Transaction>
+    <Transaction>2015/10/24 13:43:30.044,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\js\json2.js</Transaction>
+    <Transaction>2015/10/24 13:43:30.050,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\js\CallbackFramework.js</Transaction>
+    <Transaction>2015/10/24 13:43:30.058,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\js\ServerFunctions.js</Transaction>
+    <Transaction>2015/10/24 13:43:30.062,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\js\base64-min.js</Transaction>
+    <Transaction>2015/10/24 13:43:30.066,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\js\json2-min.js</Transaction>
+    <Transaction>2015/10/24 13:43:30.081,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\js\ServerFunctionExecutor-min.js</Transaction>
+    <Transaction>2015/10/24 13:43:30.087,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\js\CallbackFramework-min.js</Transaction>
+    <Transaction>2015/10/24 13:43:30.091,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\js\connection.js</Transaction>
+    <Transaction>2015/10/24 13:43:30.098,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\js\ServerFunctionInvoker.js</Transaction>
+    <Transaction>2015/10/24 13:43:30.115,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\css\main.css</Transaction>
+    <Transaction>2015/10/24 13:43:30.121,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\css\ServerFunctionInvoker.css</Transaction>
+    <Transaction>2015/10/24 13:43:30.128,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\templates\ReverseString.html</Transaction>
+    <Transaction>2015/10/24 13:43:30.134,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\templates\ServerFunctionInvoker.html</Transaction>
+    <Transaction>2015/10/24 13:43:30.151,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\images\collapse.png</Transaction>
+    <Transaction>2015/10/24 13:43:30.157,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\images\expand.png</Transaction>
+    <Transaction>2015/10/24 13:43:48.278,C:\itconsult\MultiTier-Delphi\Delphi\Servidor\Main.dfm=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\FormUnit1.dfm</Transaction>
+    <Transaction>2015/10/24 13:43:48.278,C:\itconsult\MultiTier-Delphi\Delphi\Servidor\Main.pas=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\FormUnit1.pas</Transaction>
+    <Transaction>2015/10/24 13:43:56.390,C:\itconsult\MultiTier-Delphi\Delphi\Servidor\WebModule.pas=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\WebModuleUnit1.pas</Transaction>
+    <Transaction>2015/10/24 13:43:56.390,C:\itconsult\MultiTier-Delphi\Delphi\Servidor\WebModule.dfm=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\WebModuleUnit1.dfm</Transaction>
+    <Transaction>2015/10/24 13:44:01.001,C:\itconsult\MultiTier-Delphi\Delphi\Servidor\ServerMethods.dfm=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\ServerMethodsUnit1.dfm</Transaction>
+    <Transaction>2015/10/24 13:44:01.001,C:\itconsult\MultiTier-Delphi\Delphi\Servidor\ServerMethods.pas=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2015/10/24 13:51:41.412,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\units\uAtrib.pas</Transaction>
+    <Transaction>2015/10/24 13:51:41.426,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\units\uCFG.pas</Transaction>
+    <Transaction>2015/10/24 13:51:41.441,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\units\uConnection.pas</Transaction>
+    <Transaction>2015/10/24 13:51:41.455,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\units\uPersistentObject.pas</Transaction>
+    <Transaction>2015/10/24 13:53:41.454,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\Unit3.pas</Transaction>
+    <Transaction>2015/10/24 13:54:29.404,C:\itconsult\MultiTier-Delphi\Delphi\Servidor\CfgDB.pas=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\Unit3.pas</Transaction>
+    <Transaction>2015/10/24 13:54:29.404,C:\itconsult\MultiTier-Delphi\Delphi\Servidor\CfgDB.dfm=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\Unit3.dfm</Transaction>
+    <Transaction>2015/10/24 14:37:16.123,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\Unit1.pas</Transaction>
+    <Transaction>2015/10/24 14:37:33.013,C:\itconsult\MultiTier-Delphi\Delphi\Servidor\units\uCidades.pas=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
