@@ -21,20 +21,22 @@
     <Transaction>2015/10/24 13:43:30.134,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\templates\ServerFunctionInvoker.html</Transaction>
     <Transaction>2015/10/24 13:43:30.151,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\images\collapse.png</Transaction>
     <Transaction>2015/10/24 13:43:30.157,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\images\expand.png</Transaction>
-    <Transaction>2015/10/24 13:43:48.278,C:\itconsult\MultiTier-Delphi\Delphi\Servidor\Main.dfm=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\FormUnit1.dfm</Transaction>
     <Transaction>2015/10/24 13:43:48.278,C:\itconsult\MultiTier-Delphi\Delphi\Servidor\Main.pas=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\FormUnit1.pas</Transaction>
+    <Transaction>2015/10/24 13:43:48.278,C:\itconsult\MultiTier-Delphi\Delphi\Servidor\Main.dfm=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\FormUnit1.dfm</Transaction>
     <Transaction>2015/10/24 13:43:56.390,C:\itconsult\MultiTier-Delphi\Delphi\Servidor\WebModule.pas=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\WebModuleUnit1.pas</Transaction>
     <Transaction>2015/10/24 13:43:56.390,C:\itconsult\MultiTier-Delphi\Delphi\Servidor\WebModule.dfm=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\WebModuleUnit1.dfm</Transaction>
-    <Transaction>2015/10/24 13:44:01.001,C:\itconsult\MultiTier-Delphi\Delphi\Servidor\ServerMethods.dfm=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\ServerMethodsUnit1.dfm</Transaction>
     <Transaction>2015/10/24 13:44:01.001,C:\itconsult\MultiTier-Delphi\Delphi\Servidor\ServerMethods.pas=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2015/10/24 13:44:01.001,C:\itconsult\MultiTier-Delphi\Delphi\Servidor\ServerMethods.dfm=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\ServerMethodsUnit1.dfm</Transaction>
     <Transaction>2015/10/24 13:51:41.412,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\units\uAtrib.pas</Transaction>
     <Transaction>2015/10/24 13:51:41.426,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\units\uCFG.pas</Transaction>
     <Transaction>2015/10/24 13:51:41.441,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\units\uConnection.pas</Transaction>
     <Transaction>2015/10/24 13:51:41.455,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\units\uPersistentObject.pas</Transaction>
     <Transaction>2015/10/24 13:53:41.454,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\Unit3.pas</Transaction>
-    <Transaction>2015/10/24 13:54:29.404,C:\itconsult\MultiTier-Delphi\Delphi\Servidor\CfgDB.pas=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\Unit3.pas</Transaction>
     <Transaction>2015/10/24 13:54:29.404,C:\itconsult\MultiTier-Delphi\Delphi\Servidor\CfgDB.dfm=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\Unit3.dfm</Transaction>
+    <Transaction>2015/10/24 13:54:29.404,C:\itconsult\MultiTier-Delphi\Delphi\Servidor\CfgDB.pas=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\Unit3.pas</Transaction>
     <Transaction>2015/10/24 14:37:16.123,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\Unit1.pas</Transaction>
     <Transaction>2015/10/24 14:37:33.013,C:\itconsult\MultiTier-Delphi\Delphi\Servidor\units\uCidades.pas=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\Unit1.pas</Transaction>
+    <Transaction>2015/10/24 14:47:45.675,=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\Unit1.pas</Transaction>
+    <Transaction>2015/10/24 14:48:39.296,C:\itconsult\MultiTier-Delphi\Delphi\Servidor\units\uClientes.pas=C:\itconsult\MultiTier-Delphi\Delphi\Servidor\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>

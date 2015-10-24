@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions/>
+  <Transactions>
+    <Transaction>2015/10/24 13:45:26.655,C:\itconsult\MultiTier-Delphi\Delphi\Exemplo.groupproj=C:\Users\Derkoski\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj</Transaction>
+  </Transactions>
   <Default.Personality>
-    <Projects ActiveProject="C:\itconsult\MultiTier-Delphi\Delphi\Cliente\Cliente.dproj"/>
+    <Projects ActiveProject="C:\itconsult\MultiTier-Delphi\Delphi\Servidor\Servidor.dproj"/>
   </Default.Personality>
 </BorlandProject>

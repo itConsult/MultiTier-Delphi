@@ -15,7 +15,8 @@ uses
   uConnection in 'units\uConnection.pas',
   uPersistentObject in 'units\uPersistentObject.pas',
   CfgDB in 'CfgDB.pas' {fmCfgDB},
-  uCidades in 'units\uCidades.pas';
+  uCidades in 'units\uCidades.pas',
+  uClientes in 'units\uClientes.pas';
 
 {$R *.res}
 
